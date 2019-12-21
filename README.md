@@ -1,6 +1,9 @@
 # BusNearby
 A project to alert when bus is nearby or at the stop.
 
+Follow the [link to Check it Out in Action](https://www.youtube.com/watch?v=gG0qXoqHh5M)
+
+
 ## About the Project:
 
 At every stop on an average, we waste about 2 min on an average, but around 30 stops over one ride means about 1 hour.  So by this project, the time bus has to stay at the stop goes down to 45 sec, which means about 1 min 15 sec is saved per stop or about 37.5 minutes per ride is saved. The project helps in energy saving by drastically reducing bus waiting period at stops, during which the engine still keeps running consuming power. This leads to saving fuel, energy, and human time and avoids traffic congestion with office traffic and helps reduce air pollution.
