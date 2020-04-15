@@ -1,6 +1,8 @@
 # BusNearby
 A project to alert when bus is nearby or at the stop.
 
+I am a little lazy to comment and upload my code. However, if ur intrested, open an issue on this repo adn tag me. Will help
+
 Follow the [link to Check it Out in Action](https://www.youtube.com/watch?v=gG0qXoqHh5M)
 
 
